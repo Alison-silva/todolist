@@ -1,5 +1,5 @@
 # TODO List
-##Descrição do projeto
+## Descrição do projeto
 
 API REST feita em java springboot, para gerenciar tarefas (CRUD). Possui buscas como 
 buscar por tarefas realizadas, prioridade (ALTA ou NORMAL) e possui um serviço 
